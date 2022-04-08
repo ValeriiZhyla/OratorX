@@ -1,10 +1,10 @@
-Computer Science student at KIT
+B.Sc in Computer Science 
+
+Master student at KIT
 
 Software Engineer at Vivavis AG
 
-Main PLs: Java+Spring, Python
-
-Secondary PLs: Dart+Flutter, Bash, Haskell, C++
+Java+Spring, Python, Flutter
 
 Media: https://twitter.com/ValeriiZhyla
 
