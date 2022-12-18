@@ -1,4 +1,4 @@
-B.Sc in Computer Science 
+B.Sc in Computer Science  
 Master student at KIT
 Software Engineer at Vivavis AG
 Java+Spring, Python, Flutter
