@@ -3,8 +3,8 @@ Master student at KIT
 Software Engineer at Vivavis AG  
 Java+Spring, Python, Flutter  
 
-Twiiter: https://twitter.com/ValeriiZhyla
-<a rel="me" href="https://techhub.social/@oratorx">Mastodon</a>
+<a rel="me" href="https://techhub.social/@oratorx">Mastodon</a>  
+<a rel="twitter" href="https://twitter.com/ValeriiZhyla">Twitter</a>  
 
 You can contact me in English, German and Russian
 
