@@ -1,7 +1,6 @@
 B.Sc in Computer Science  
 Master student at KIT  
 Software Engineer at Vivavis AG  
-Java+Spring, Python, Flutter  
 
 <a rel="me" href="https://techhub.social/@oratorx">Mastodon</a>  
 <a rel="twitter" href="https://twitter.com/ValeriiZhyla">Twitter</a>  
