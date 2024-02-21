@@ -4,6 +4,5 @@ Software Engineer at Vivavis AG
 
 <a rel="me" href="https://techhub.social/@oratorx">Mastodon</a>  
 <a rel="twitter" href="https://twitter.com/ValeriiZhyla">Twitter</a>  
-
-You can contact me in English, German and Russian
+<a rel="LinkedIn" href="https://www.linkedin.com/in/valerii-zhyla/">LinkedIn</a>  
 
